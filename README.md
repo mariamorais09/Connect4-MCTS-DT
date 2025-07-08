@@ -24,6 +24,13 @@ ID3 para treinar uma árvore de decisão com base em estados do jogo gerados por
 - estados do jogo Connect Four (gerado via MCTS)
 
 *Como jogar*
+
 Certifica-te de que estás no diretório do projeto e executa: python3 play.py
 
 *Requisitos*
+- pandas
+- numpy 
+- collections
+- os
+- csv
+- matplotlib.pyplot
